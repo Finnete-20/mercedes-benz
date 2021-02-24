@@ -1,0 +1,103 @@
+*{
+    font-family: "Roboto Light";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-color: aliceblue;
+  
+  }
+  
+  ul{
+    float: right;
+    background-color: beige;
+    color: #b3d4fc;
+    height: 6rem;
+    width: 100%;
+    overflow: hidden;
+    padding-right: 20px;
+    color: cornflowerblue;
+  
+  }
+  li{
+    display: inline;
+    padding: 20px;
+    margin-top: 1rem;
+  
+  }
+  a{
+    text-decoration: none;
+  }
+  strong{
+    float: right;
+  }
+  button{
+    color: aqua;
+    background-color: cornflowerblue;
+    height: 7vh;
+    width: 160px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    text-decoration: none;
+    padding-right: 20px;
+  }
+  .one{
+    background-color: #77ddfc;
+    color: midnightblue;
+    width: 100px;
+    padding-right: 25px;
+  }
+  .first{
+    color: midnightblue;
+    padding: 5rem;
+  }
+  h3{
+    padding-top: 5rem;
+  }
+  .second{
+    margin-left: 5rem;
+    color: midnightblue;
+    width: 25%;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    text-align: center;
+    background-color: rgb(245, 243, 245);
+    width: 30vw;
+    height: 29vh;
+    margin-left:5rem ;
+  
+  }
+  .row{
+    padding-top: 4rem;
+  }
+  .column {
+    float: left;
+    width: 15%;
+  
+  
+  }
+  .column-one{
+    float: right;
+    margin-right: 1rem;
+  
+  }
+  
+  .column-two{
+    float: right;
+    width: 15%;
+    margin-right: 14rem;
+  
+  }
+  h4{
+    color: #1e266d;
+  }
+  p{
+    color: #152292;
+  }
+  .about us{
+    height: 100vh;
+    width: 100%;
+  }
